@@ -7,5 +7,5 @@ Bob sees it snowing
 Bob doesn't go around telling everyone
 because Bob knows people have windows
 
-Bob is smart
+Bob is smart.
 Be like Bob
